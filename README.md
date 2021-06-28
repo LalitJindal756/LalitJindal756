@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @LalitJindal756
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Git in Continous Integration
+- 💞️ I’m looking to collaborate on more learning
+- 📫 How to reach me TBC
+
+<!---
+LalitJindal756/LalitJindal756 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

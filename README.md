@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LalitJindal756
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Git in Continous Integration
-- 💞️ I’m looking to collaborate on more learning
+- 🌱 I’m looking to collaborate on more learning
 - 📫 How to reach me TBC
 
 <!---
